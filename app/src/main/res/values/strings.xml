@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Week2 Task App</string>
+    <string name="Task">Task</string>
+    <string name="save_now">Save_Now</string>
+    <string name="textview">TextView</string>
+    <string name="textView2" />
+    <string-array name="Bad_habit">
+        <item>Self Doubt</item>
+        <item>Fear</item>
+        <item>Negativity</item>
+        <item>Procrastinate</item>
+        <item>Anger</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment">Fragment</string>
+    <string name="btnFragment" />
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="to_fragment">To Fragment</string>
+    <string name="fragment_stack">Fragment Stack :</string>
+</resources>
